@@ -2,8 +2,9 @@
 
 ## Lekce 5
 
-- intro
+- úvod
 - git
 - SQL
+- projekt
 
 Pro naklonování repozitáře použij příkaz `git clone`.
