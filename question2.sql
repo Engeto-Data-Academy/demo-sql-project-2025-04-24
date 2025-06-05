@@ -1,3 +1,4 @@
+-- query for Q1
 SELECT *
 FROM healthcare_provider hp 
 JOIN czechia_district cd 
